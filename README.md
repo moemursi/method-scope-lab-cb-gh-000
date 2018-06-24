@@ -1,5 +1,5 @@
 # Method Scope Lab
-
+j
 ## Objectives
 
 1. Define a method that takes in an argument and pass a variable in as that argument. 
